@@ -1,6 +1,8 @@
-# Frontend-Mentor-Challenges
+# Frontend Mentor Challenges
 
 This is a list of all my completed challenges on frontend mentor, i've wanted to make a direct link by grouping all of them right here.
+
+### Projects:
 
 <table align="center"><tr><td>
   <h2 align="center">Multistep Form</h2>
