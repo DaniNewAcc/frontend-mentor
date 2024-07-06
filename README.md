@@ -5,6 +5,25 @@ This is a list of all my completed challenges on frontend mentor, i've wanted to
 ### Projects:
 
 <table align="center"><tr><td>
+  <h2 align="center">Mortgage Calculator</h2>
+  <picture>
+    <img src="./images/multistep-form-preview.PNG" alt="MultiStep Form Preview" width="50%" align="right" />
+  </picture>
+  <br><br><br>
+
+
+  <h3 align="center">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+  </h3>
+ <p align="center">
+  <a href="https://daninewacc.github.io/mortgage-calculator/">Live</a> |
+  <a href="https://github.com/DaniNewAcc/mortgage-calculator">Repository</a>
+</p>
+
+</td></tr>
+</table>
+
+<table align="center"><tr><td>
   <h2 align="center">Multistep Form</h2>
   <picture>
     <img src="./images/multistep-form-preview.PNG" alt="MultiStep Form Preview" width="50%" align="right" />
