@@ -7,7 +7,7 @@ This is a list of all my completed challenges on frontend mentor, i've wanted to
 <table align="center"><tr><td>
   <h2 align="center">Mortgage Calculator</h2>
   <picture>
-    <img src="./images/multistep-form-preview.PNG" alt="MultiStep Form Preview" width="50%" align="right" />
+    <img src="./images/mortgage-calculator-preview.PNG" alt="Mortgage Calculator Preview" width="50%" align="right" />
   </picture>
   <br><br><br>
 
