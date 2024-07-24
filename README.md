@@ -5,6 +5,25 @@ This is a list of all my completed challenges on frontend mentor, i've wanted to
 ### Projects:
 
 <table align="center"><tr><td>
+  <h2 align="center">Product List</h2>
+  <picture>
+    <img src="./images/product-list-preview.PNG" alt="Product List Preview" width="50%" align="right" />
+  </picture>
+  <br><br><br>
+
+
+  <h3 align="center">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+  </h3>
+ <p align="center">
+  <a href="https://daninewacc.github.io/product-list/">Live</a> |
+  <a href="https://github.com/DaniNewAcc/product-list">Repository</a>
+</p>
+
+</td></tr>
+</table>
+
+<table align="center"><tr><td>
   <h2 align="center">Mortgage Calculator</h2>
   <picture>
     <img src="./images/mortgage-calculator-preview.PNG" alt="Mortgage Calculator Preview" width="50%" align="right" />
